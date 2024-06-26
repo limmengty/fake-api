@@ -7,25 +7,6 @@
       "domain": "www.amazon.com",
       "products": [
           {
-              "asin": "B0D1XD1ZV3",
-              "product_title": "Apple AirPods Pro (2nd Generation) Wireless Ear Buds with USB-C Charging, Up to 2X More Active Noise Cancelling Bluetooth Headphones, Transparency Mode, Adaptive Audio, Personalized Spatial Audio",
-              "product_price": "$199.00",
-              "product_original_price": "$249.00",
-              "currency": "USD",
-              "product_star_rating": "4.6",
-              "product_num_ratings": 703,
-              "product_url": "https://www.amazon.com/dp/B0D1XD1ZV3",
-              "product_photo": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SX444_SY639_QL65_.jpg",
-              "product_num_offers": 1,
-              "product_minimum_offer_price": "$199.00",
-              "is_best_seller": false,
-              "is_amazon_choice": true,
-              "is_prime": true,
-              "climate_pledge_friendly": false,
-              "sales_volume": "10K+ bought in past month",
-              "delivery": "FREE delivery Mon, Jul 1 Or fastest delivery Fri, Jun 28"
-          },
-          {
               "asin": "B08PZJN7BD",
               "product_title": "Apple AirPods Max Wireless Over-Ear Headphones, Active Noise Cancelling, Transparency Mode, Personalized Spatial Audio, Dolby Atmos, Bluetooth Headphones for iPhone – Sky Blue",
               "product_price": "$449.00",
