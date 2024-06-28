@@ -1,0 +1,8 @@
+{
+  "result": [
+    { "id": "1", "name": "mengty", "gender": "Male" },
+    { "id": "2", "name": "Tola", "gender": "Male" },
+    { "id": "3", "name": "Hong Ly", "gender": "Male" },
+    { "id": "4", "name": "Dara", "gender": "Male" }
+  ]
+}
