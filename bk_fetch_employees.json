@@ -1,0 +1,242 @@
+{
+  "success": true,
+  "body": {
+    "data": {
+      "contents": [
+        {
+          "id": 390,
+          "name": "Theara",
+          "lastName": "Sambath",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/png-transparent-avatar-male-man-portrait-avatars-xmas-giveaway-icon-thumbnail_1719816232.png",
+          "position": "Java",
+          "role": null,
+          "employeeName": "Theara Sambath"
+        },
+        {
+          "id": 391,
+          "name": "Channy",
+          "lastName": "SAO",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/SAO Channy_CV_ 2023.01_1686196491_1741231707.jpg",
+          "position": "Java",
+          "role": null,
+          "employeeName": "Channy SAO"
+        },
+        {
+          "id": 392,
+          "name": "Seyha",
+          "lastName": "SENG",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/9366ffe3d4_1719539738.jpg",
+          "position": "Java Dev",
+          "role": null,
+          "employeeName": "Seyha SENG"
+        },
+        {
+          "id": 396,
+          "name": "Vireak",
+          "lastName": "HO",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/png-transparent-avatar-boy-man-avatar-vol-1-icon-thumbnail_1719816161.png",
+          "position": "PHP Intern",
+          "role": null,
+          "employeeName": "Vireak HO"
+        },
+        {
+          "id": 397,
+          "name": "Putheara",
+          "lastName": "Muy",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/images (1)_1719816125.jpg",
+          "position": "Java Dev",
+          "role": null,
+          "employeeName": "Putheara Muy"
+        },
+        {
+          "id": 398,
+          "name": "chamrong",
+          "lastName": "thor",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/images (1)_1719816471.png",
+          "position": "Java Dev",
+          "role": null,
+          "employeeName": "chamrong thor"
+        },
+        {
+          "id": 399,
+          "name": "employee-01",
+          "lastName": "dummy",
+          "avatar": null,
+          "position": "Java Dev",
+          "role": null,
+          "employeeName": "employee-01 dummy"
+        },
+        {
+          "id": 400,
+          "name": "employee-02",
+          "lastName": "dummy",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/images (4)_1719816502.jpg",
+          "position": "Java",
+          "role": null,
+          "employeeName": "employee-02 dummy"
+        },
+        {
+          "id": 401,
+          "name": "Vireak",
+          "lastName": "POK",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/images (3)_1719816431.jpg",
+          "position": "Automation Tester",
+          "role": null,
+          "employeeName": "Vireak POK"
+        },
+        {
+          "id": 402,
+          "name": "Pisey",
+          "lastName": "TEN",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/520-5206228_cartoon-avatar-transparent-background-png-cartoon-male-avatar_1719816264.png",
+          "position": "Java Dev",
+          "role": null,
+          "employeeName": "Pisey TEN"
+        },
+        {
+          "id": 403,
+          "name": "Henghun",
+          "lastName": "MOEUN",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/images_1719816412.png",
+          "position": "Java Team Leader",
+          "role": null,
+          "employeeName": "Henghun MOEUN"
+        },
+        {
+          "id": 404,
+          "name": "Chinda",
+          "lastName": "KIM",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/2024-05-31_13h23_50_1718617924.png",
+          "position": "Java Dev",
+          "role": null,
+          "employeeName": "Chinda KIM"
+        },
+        {
+          "id": 405,
+          "name": "Boravy",
+          "lastName": "NA",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/images (2)_1719816296.jpg",
+          "position": "Automation Tester",
+          "role": null,
+          "employeeName": "Boravy NA"
+        },
+        {
+          "id": 406,
+          "name": "Akara",
+          "lastName": "Sim",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/images_1720599817.jpg",
+          "position": "CEO",
+          "role": null,
+          "employeeName": "Akara Sim"
+        },
+        {
+          "id": 407,
+          "name": "Phathai",
+          "lastName": "YAN",
+          "avatar": null,
+          "position": "PHP Dev",
+          "role": null,
+          "employeeName": "Phathai YAN"
+        },
+        {
+          "id": 408,
+          "name": "Phumra",
+          "lastName": "CHAN",
+          "avatar": null,
+          "position": "Junior PHP",
+          "role": null,
+          "employeeName": "Phumra CHAN"
+        },
+        {
+          "id": 409,
+          "name": "Maikheur",
+          "lastName": "Moeng",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/jongkook_1724141456.jpg",
+          "position": "Automation Tester",
+          "role": null,
+          "employeeName": "Maikheur Moeng"
+        },
+        {
+          "id": 410,
+          "name": "Lim",
+          "lastName": "Mengty",
+          "avatar": null,
+          "position": "Frentend Dev",
+          "role": null,
+          "employeeName": "Lim Mengty"
+        },
+        {
+          "id": 411,
+          "name": "Kun",
+          "lastName": "Kimlong",
+          "avatar": "https://devhrm.allweb.com.kh:700/storage/uploads/avatar/small_1732077465.jpg",
+          "position": "Java",
+          "role": null,
+          "employeeName": "Kun Kimlong"
+        },
+        {
+          "id": 412,
+          "name": "Long",
+          "lastName": "Kim",
+          "avatar": null,
+          "position": "PHP, Java, C#",
+          "role": null,
+          "employeeName": "Long Kim"
+        },
+        {
+          "id": 413,
+          "name": "Kimlong",
+          "lastName": "Smos",
+          "avatar": null,
+          "position": "Junior PHP",
+          "role": null,
+          "employeeName": "Kimlong Smos"
+        },
+        {
+          "id": 414,
+          "name": "Sok",
+          "lastName": "Chan",
+          "avatar": null,
+          "position": "Java Dev",
+          "role": null,
+          "employeeName": "Sok Chan"
+        },
+        {
+          "id": 415,
+          "name": "Theara",
+          "lastName": "AWS",
+          "avatar": null,
+          "position": "Java Team Leader",
+          "role": null,
+          "employeeName": "Theara AWS"
+        },
+        {
+          "id": 416,
+          "name": "Meng",
+          "lastName": "Thida",
+          "avatar": null,
+          "position": "FRONTEND",
+          "role": null,
+          "employeeName": "Meng Thida"
+        },
+        {
+          "id": 417,
+          "name": "Thea",
+          "lastName": "Raa",
+          "avatar": null,
+          "position": "PHP Intern",
+          "role": null,
+          "employeeName": "Thea Raa"
+        }
+      ],
+      "page": 1,
+      "pageSize": 1000,
+      "total": 25
+    },
+    "page": null
+  },
+  "status": {
+    "code": 200,
+    "message": "Listing Employees Successfully"
+  }
+}
